@@ -1,0 +1,984 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "key": "body",
+   "label": "Badan"
+  },
+  {
+   "key": "face",
+   "label": "Wajah"
+  },
+  {
+   "key": "mulut",
+   "label": "Mulut"
+  },
+  {
+   "key": "hair",
+   "label": "Rambut"
+  },
+  {
+   "key": "outfit",
+   "label": "Baju"
+  },
+  {
+   "key": "celana",
+   "label": "Celana"
+  },
+  {
+   "key": "spatu",
+   "label": "Sepatu"
+  },
+  {
+   "key": "acc",
+   "label": "Kepala"
+  },
+  {
+   "key": "back",
+   "label": "Punggung"
+  },
+  {
+   "key": "hand",
+   "label": "Tangan"
+  },
+  {
+   "key": "pet",
+   "label": "Peliharaan"
+  },
+  {
+   "key": "border",
+   "label": "Bingkai"
+  },
+  {
+   "key": "status",
+   "label": "Lencana"
+  }
+ ],
+ "anchors": {
+  "back": {
+   "left": 22.0,
+   "top": 35.2,
+   "width": 56.0
+  },
+  "body": {
+   "left": 26.2,
+   "top": 15.9,
+   "width": 47.6
+  },
+  "spatu": {
+   "left": 29.8,
+   "top": 76.1,
+   "width": 40.5
+  },
+  "celana": {
+   "left": 31.0,
+   "top": 59.1,
+   "width": 38.1
+  },
+  "outfit": {
+   "left": 28.6,
+   "top": 48.9,
+   "width": 42.9
+  },
+  "hand": {
+   "left": 75.0,
+   "top": 56.8,
+   "height": 29.5,
+   "centerX": true
+  },
+  "face": {
+   "left": 31.5,
+   "top": 26.1,
+   "width": 36.9
+  },
+  "mulut": {
+   "left": 46.5,
+   "top": 48.0,
+   "width": 7.0
+  },
+  "hair": {
+   "left": 20.2,
+   "top": 5.7,
+   "width": 59.5
+  },
+  "acc": {
+   "left": 23.8,
+   "top": 1.1,
+   "width": 52.4
+  }
+ },
+ "order": [
+  "back",
+  "body",
+  "spatu",
+  "celana",
+  "outfit",
+  "hand",
+  "face",
+  "mulut",
+  "hair",
+  "acc"
+ ],
+ "borderRect": {
+  "border_0": [
+   11.1,
+   11.7,
+   83.8,
+   95.7
+  ],
+  "border_2": [
+   11.5,
+   11.0,
+   88.5,
+   89.0
+  ],
+  "border_3": [
+   10.0,
+   2.3,
+   86.7,
+   93.1
+  ],
+  "border_4": [
+   11.5,
+   11.0,
+   88.5,
+   89.0
+  ]
+ },
+ "default": {
+  "body": "body_1",
+  "face": "face_0",
+  "hair": "hair_2",
+  "outfit": "outfit_0",
+  "celana": "celana_0",
+  "spatu": "spatu_0"
+ },
+ "items": {
+  "acc": [
+   {
+    "id": "acc_0",
+    "file": "acc/acc_0.png",
+    "price": 0
+   },
+   {
+    "id": "acc_10",
+    "file": "acc/acc_10.png",
+    "price": 0
+   },
+   {
+    "id": "acc_11",
+    "file": "acc/acc_11.png",
+    "price": 0
+   },
+   {
+    "id": "acc_12",
+    "file": "acc/acc_12.png",
+    "price": 0
+   },
+   {
+    "id": "acc_13",
+    "file": "acc/acc_13.png",
+    "price": 0
+   },
+   {
+    "id": "acc_14",
+    "file": "acc/acc_14.png",
+    "price": 0
+   },
+   {
+    "id": "acc_15",
+    "file": "acc/acc_15.png",
+    "price": 0
+   },
+   {
+    "id": "acc_16",
+    "file": "acc/acc_16.png",
+    "price": 0
+   },
+   {
+    "id": "acc_2",
+    "file": "acc/acc_2.png",
+    "price": 0
+   },
+   {
+    "id": "acc_3",
+    "file": "acc/acc_3.png",
+    "price": 0
+   },
+   {
+    "id": "acc_4",
+    "file": "acc/acc_4.png",
+    "price": 0
+   },
+   {
+    "id": "acc_5",
+    "file": "acc/acc_5.png",
+    "price": 0
+   },
+   {
+    "id": "acc_6",
+    "file": "acc/acc_6.png",
+    "price": 0
+   },
+   {
+    "id": "acc_7",
+    "file": "acc/acc_7.png",
+    "price": 0
+   },
+   {
+    "id": "acc_8",
+    "file": "acc/acc_8.png",
+    "price": 0
+   },
+   {
+    "id": "acc_9",
+    "file": "acc/acc_9.png",
+    "price": 0
+   }
+  ],
+  "body": [
+   {
+    "id": "body_1",
+    "file": "body/body_1.png",
+    "price": 0
+   },
+   {
+    "id": "body_2",
+    "file": "body/body_2.png",
+    "price": 0
+   },
+   {
+    "id": "body_3",
+    "file": "body/body_3.png",
+    "price": 0
+   }
+  ],
+  "celana": [
+   {
+    "id": "celana_0",
+    "file": "celana/celana_0.png",
+    "price": 0
+   },
+   {
+    "id": "celana_1",
+    "file": "celana/celana_1.png",
+    "price": 0
+   },
+   {
+    "id": "celana_10",
+    "file": "celana/celana_10.png",
+    "price": 0
+   },
+   {
+    "id": "celana_11",
+    "file": "celana/celana_11.png",
+    "price": 0
+   },
+   {
+    "id": "celana_12",
+    "file": "celana/celana_12.png",
+    "price": 0
+   },
+   {
+    "id": "celana_13",
+    "file": "celana/celana_13.png",
+    "price": 0
+   },
+   {
+    "id": "celana_14",
+    "file": "celana/celana_14.png",
+    "price": 0
+   },
+   {
+    "id": "celana_15",
+    "file": "celana/celana_15.png",
+    "price": 0
+   },
+   {
+    "id": "celana_2",
+    "file": "celana/celana_2.png",
+    "price": 0
+   },
+   {
+    "id": "celana_3",
+    "file": "celana/celana_3.png",
+    "price": 0
+   },
+   {
+    "id": "celana_4",
+    "file": "celana/celana_4.png",
+    "price": 0
+   },
+   {
+    "id": "celana_5",
+    "file": "celana/celana_5.png",
+    "price": 0
+   },
+   {
+    "id": "celana_6",
+    "file": "celana/celana_6.png",
+    "price": 0
+   },
+   {
+    "id": "celana_9",
+    "file": "celana/celana_9.png",
+    "price": 0
+   }
+  ],
+  "face": [
+   {
+    "id": "face_0",
+    "file": "face/face_0.png",
+    "price": 0
+   },
+   {
+    "id": "face_1",
+    "file": "face/face_1.png",
+    "price": 0
+   },
+   {
+    "id": "face_10",
+    "file": "face/face_10.png",
+    "price": 0
+   },
+   {
+    "id": "face_11",
+    "file": "face/face_11.png",
+    "price": 0
+   },
+   {
+    "id": "face_13_a",
+    "file": "face/face_13_a.png",
+    "price": 0
+   },
+   {
+    "id": "face_13_b",
+    "file": "face/face_13_b.png",
+    "price": 0
+   },
+   {
+    "id": "face_14",
+    "file": "face/face_14.png",
+    "price": 0
+   },
+   {
+    "id": "face_15",
+    "file": "face/face_15.png",
+    "price": 0
+   },
+   {
+    "id": "face_2",
+    "file": "face/face_2.png",
+    "price": 0
+   },
+   {
+    "id": "face_3",
+    "file": "face/face_3.png",
+    "price": 0
+   },
+   {
+    "id": "face_5",
+    "file": "face/face_5.png",
+    "price": 0
+   },
+   {
+    "id": "face_6",
+    "file": "face/face_6.png",
+    "price": 0
+   },
+   {
+    "id": "face_7",
+    "file": "face/face_7.png",
+    "price": 0
+   }
+  ],
+  "hair": [
+   {
+    "id": "hair_10",
+    "file": "hair/hair_10.png",
+    "price": 0
+   },
+   {
+    "id": "hair_11",
+    "file": "hair/hair_11.png",
+    "price": 0
+   },
+   {
+    "id": "hair_12",
+    "file": "hair/hair_12.png",
+    "price": 0
+   },
+   {
+    "id": "hair_13",
+    "file": "hair/hair_13.png",
+    "price": 0
+   },
+   {
+    "id": "hair_17",
+    "file": "hair/hair_17.png",
+    "price": 0
+   },
+   {
+    "id": "hair_18",
+    "file": "hair/hair_18.png",
+    "price": 0
+   },
+   {
+    "id": "hair_19",
+    "file": "hair/hair_19.png",
+    "price": 0
+   },
+   {
+    "id": "hair_2",
+    "file": "hair/hair_2.png",
+    "price": 0
+   },
+   {
+    "id": "hair_20",
+    "file": "hair/hair_20.png",
+    "price": 0
+   },
+   {
+    "id": "hair_21",
+    "file": "hair/hair_21.png",
+    "price": 0
+   },
+   {
+    "id": "hair_23",
+    "file": "hair/hair_23.png",
+    "price": 0
+   },
+   {
+    "id": "hair_24",
+    "file": "hair/hair_24.png",
+    "price": 0
+   },
+   {
+    "id": "hair_25",
+    "file": "hair/hair_25.png",
+    "price": 0
+   },
+   {
+    "id": "hair_26",
+    "file": "hair/hair_26.png",
+    "price": 0
+   },
+   {
+    "id": "hair_27",
+    "file": "hair/hair_27.png",
+    "price": 0
+   },
+   {
+    "id": "hair_28",
+    "file": "hair/hair_28.png",
+    "price": 0
+   },
+   {
+    "id": "hair_29",
+    "file": "hair/hair_29.png",
+    "price": 0
+   },
+   {
+    "id": "hair_3",
+    "file": "hair/hair_3.png",
+    "price": 0
+   },
+   {
+    "id": "hair_4",
+    "file": "hair/hair_4.png",
+    "price": 0
+   },
+   {
+    "id": "hair_5",
+    "file": "hair/hair_5.png",
+    "price": 0
+   },
+   {
+    "id": "hair_6",
+    "file": "hair/hair_6.png",
+    "price": 0
+   },
+   {
+    "id": "hair_7",
+    "file": "hair/hair_7.png",
+    "price": 0
+   },
+   {
+    "id": "hair_8",
+    "file": "hair/hair_8.png",
+    "price": 0
+   },
+   {
+    "id": "hair_9",
+    "file": "hair/hair_9.png",
+    "price": 0
+   }
+  ],
+  "mulut": [
+   {
+    "id": "mulut_0",
+    "file": "mulut/mulut_0.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_1",
+    "file": "mulut/mulut_1.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_2",
+    "file": "mulut/mulut_2.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_3",
+    "file": "mulut/mulut_3.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_4",
+    "file": "mulut/mulut_4.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_5",
+    "file": "mulut/mulut_5.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_6",
+    "file": "mulut/mulut_6.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_7",
+    "file": "mulut/mulut_7.png",
+    "price": 0
+   },
+   {
+    "id": "mulut_8",
+    "file": "mulut/mulut_8.png",
+    "price": 0
+   }
+  ],
+  "outfit": [
+   {
+    "id": "outfit_0",
+    "file": "outfit/outfit_0.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_1",
+    "file": "outfit/outfit_1.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_10",
+    "file": "outfit/outfit_10.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_11",
+    "file": "outfit/outfit_11.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_2",
+    "file": "outfit/outfit_2.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_3",
+    "file": "outfit/outfit_3.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_4",
+    "file": "outfit/outfit_4.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_5",
+    "file": "outfit/outfit_5.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_6",
+    "file": "outfit/outfit_6.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_7",
+    "file": "outfit/outfit_7.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_8",
+    "file": "outfit/outfit_8.png",
+    "price": 0
+   },
+   {
+    "id": "outfit_9",
+    "file": "outfit/outfit_9.png",
+    "price": 0
+   }
+  ],
+  "spatu": [
+   {
+    "id": "spatu_0",
+    "file": "spatu/spatu_0.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_10",
+    "file": "spatu/spatu_10.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_2",
+    "file": "spatu/spatu_2.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_3",
+    "file": "spatu/spatu_3.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_4",
+    "file": "spatu/spatu_4.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_5",
+    "file": "spatu/spatu_5.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_6",
+    "file": "spatu/spatu_6.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_7",
+    "file": "spatu/spatu_7.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_8",
+    "file": "spatu/spatu_8.png",
+    "price": 0
+   },
+   {
+    "id": "spatu_9",
+    "file": "spatu/spatu_9.png",
+    "price": 0
+   }
+  ],
+  "back": [
+   {
+    "id": "backitem_1",
+    "file": "back/backitem_1.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_10",
+    "file": "back/backitem_10.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_11",
+    "file": "back/backitem_11.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_12",
+    "file": "back/backitem_12.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_13",
+    "file": "back/backitem_13.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_14",
+    "file": "back/backitem_14.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_2",
+    "file": "back/backitem_2.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_3",
+    "file": "back/backitem_3.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_4",
+    "file": "back/backitem_4.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_5_a",
+    "file": "back/backitem_5_a.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_5_b",
+    "file": "back/backitem_5_b.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_5_c",
+    "file": "back/backitem_5_c.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_6",
+    "file": "back/backitem_6.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_7",
+    "file": "back/backitem_7.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_8",
+    "file": "back/backitem_8.png",
+    "price": 0
+   },
+   {
+    "id": "backitem_9",
+    "file": "back/backitem_9.png",
+    "price": 0
+   }
+  ],
+  "border": [
+   {
+    "id": "border_0",
+    "file": "border/border_0.png",
+    "price": 0
+   },
+   {
+    "id": "border_2",
+    "file": "border/border_2.png",
+    "price": 0
+   },
+   {
+    "id": "border_3",
+    "file": "border/border_3.png",
+    "price": 0
+   },
+   {
+    "id": "border_4",
+    "file": "border/border_4.png",
+    "price": 0
+   }
+  ],
+  "hand": [
+   {
+    "id": "handitem_0",
+    "file": "hand/handitem_0.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_1",
+    "file": "hand/handitem_1.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_10",
+    "file": "hand/handitem_10.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_11",
+    "file": "hand/handitem_11.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_12",
+    "file": "hand/handitem_12.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_13",
+    "file": "hand/handitem_13.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_14",
+    "file": "hand/handitem_14.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_15",
+    "file": "hand/handitem_15.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_16",
+    "file": "hand/handitem_16.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_17",
+    "file": "hand/handitem_17.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_18",
+    "file": "hand/handitem_18.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_19",
+    "file": "hand/handitem_19.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_2",
+    "file": "hand/handitem_2.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_20",
+    "file": "hand/handitem_20.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_21_a",
+    "file": "hand/handitem_21_a.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_21_b",
+    "file": "hand/handitem_21_b.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_22",
+    "file": "hand/handitem_22.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_24",
+    "file": "hand/handitem_24.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_25",
+    "file": "hand/handitem_25.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_26",
+    "file": "hand/handitem_26.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_27",
+    "file": "hand/handitem_27.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_3",
+    "file": "hand/handitem_3.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_4",
+    "file": "hand/handitem_4.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_5",
+    "file": "hand/handitem_5.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_6",
+    "file": "hand/handitem_6.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_7",
+    "file": "hand/handitem_7.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_8",
+    "file": "hand/handitem_8.png",
+    "price": 0
+   },
+   {
+    "id": "handitem_9",
+    "file": "hand/handitem_9.png",
+    "price": 0
+   }
+  ],
+  "pet": [
+   {
+    "id": "pet_1",
+    "file": "pet/pet_1.png",
+    "price": 0
+   },
+   {
+    "id": "pet_2",
+    "file": "pet/pet_2.png",
+    "price": 0
+   },
+   {
+    "id": "pet_3_a",
+    "file": "pet/pet_3_a.png",
+    "price": 0
+   },
+   {
+    "id": "pet_3_b",
+    "file": "pet/pet_3_b.png",
+    "price": 0
+   },
+   {
+    "id": "pet_4",
+    "file": "pet/pet_4.png",
+    "price": 0
+   }
+  ],
+  "status": [
+   {
+    "id": "status_2",
+    "file": "status/status_2.png",
+    "price": 0
+   },
+   {
+    "id": "status_3",
+    "file": "status/status_3.png",
+    "price": 0
+   },
+   {
+    "id": "status_4",
+    "file": "status/status_4.png",
+    "price": 0
+   },
+   {
+    "id": "status_5",
+    "file": "status/status_5.png",
+    "price": 0
+   },
+   {
+    "id": "status_6",
+    "file": "status/status_6.png",
+    "price": 0
+   },
+   {
+    "id": "status_8",
+    "file": "status/status_8.png",
+    "price": 0
+   }
+  ]
+ }
+}
