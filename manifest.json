@@ -1,0 +1,24 @@
+{
+  "name": "POSKO Stickers",
+  "version": 1,
+  "packs": [
+    {
+      "id": "maskot",
+      "name": "Maskot POSKO",
+      "stickers": [
+        {"id": "senang", "file": "packs/maskot/senang.webp", "label": "Senang"},
+        {"id": "ketawa", "file": "packs/maskot/ketawa.webp", "label": "Ketawa"},
+        {"id": "cinta", "file": "packs/maskot/cinta.webp", "label": "Cinta"},
+        {"id": "kaget", "file": "packs/maskot/kaget.webp", "label": "Kaget"},
+        {"id": "sedih", "file": "packs/maskot/sedih.webp", "label": "Sedih"},
+        {"id": "nangis", "file": "packs/maskot/nangis.webp", "label": "Nangis"},
+        {"id": "marah", "file": "packs/maskot/marah.webp", "label": "Marah"},
+        {"id": "ngantuk", "file": "packs/maskot/ngantuk.webp", "label": "Ngantuk"},
+        {"id": "malu", "file": "packs/maskot/malu.webp", "label": "Malu"},
+        {"id": "bingung", "file": "packs/maskot/bingung.webp", "label": "Bingung"},
+        {"id": "songong", "file": "packs/maskot/songong.webp", "label": "Songong"},
+        {"id": "jempol", "file": "packs/maskot/jempol.webp", "label": "Jempol"}
+      ]
+    }
+  ]
+}
