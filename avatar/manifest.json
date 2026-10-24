@@ -1044,6 +1044,11 @@
         "id": "model_zombie",
         "file": "model/model_zombie.png",
         "price": 0
+      },
+      {
+        "id": "model_base_idle",
+        "file": "model/model_base_idle.gif",
+        "price": 0
       }
     ]
   }
